@@ -1,6 +1,6 @@
 # clash软件安装使用教程
 
-最新地址：[https://tz.059950.xyz](https://tz.059950.xyz)
+最新地址：[https://t.192291.xyz](https://t.192291.xyz)
 
 * Clash：一个 Go 语言开发的多平台代理客户端，下载：[Github](https://github.com/Dreamacro/clash)
 * ClashX：Clash 的 Mac 图形客户端，下载：[Github](https://github.com/yichengchen/clashX)
